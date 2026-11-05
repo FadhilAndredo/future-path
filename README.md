@@ -1,4 +1,5 @@
 # FUTUREPATH
+https://fadhilandredo.github.io/future-path/
 
 Website statis untuk eksplorasi pendidikan dan karier siswa SMA/MA serta SMK/MAK.
 Tidak perlu npm, proses build, akun pengguna, backend, atau database server.
