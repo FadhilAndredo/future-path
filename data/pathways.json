@@ -1,0 +1,46 @@
+[
+  {
+    "id": "kuliah",
+    "title": "Lanjut pendidikan",
+    "steps": [
+      "Kenali bidang dan program studi yang ingin dipelajari.",
+      "Bandingkan universitas, politeknik, atau akademi dan periksa status programnya.",
+      "Cek persyaratan masuk, biaya, dukungan, dan beasiswa melalui situs resmi.",
+      "Siapkan dokumen dan jadwal pribadi bersama guru BK."
+    ],
+    "note": "Kamu bisa menggabungkan pendidikan dengan proyek, magang sesuai ketentuan, atau usaha kecil."
+  },
+  {
+    "id": "kerja",
+    "title": "Masuk dunia kerja",
+    "steps": [
+      "Petakan kemampuan dan pekerjaan yang ingin kamu kenali.",
+      "Siapkan CV dan portofolio dari tugas atau proyek yang pernah dibuat.",
+      "Pelajari perusahaan serta persyaratan lowongan melalui kanal resminya.",
+      "Latih wawancara bersama guru atau teman dan evaluasi lamaranmu."
+    ],
+    "note": "Pelatihan dan pendidikan lanjutan tetap bisa menjadi bagian perjalananmu."
+  },
+  {
+    "id": "usaha",
+    "title": "Bangun usaha",
+    "steps": [
+      "Temukan masalah kecil atau kebutuhan di sekitarmu.",
+      "Tanya calon pengguna dan uji ide dengan versi sederhana.",
+      "Hitung biaya, harga, waktu, dan risiko sebelum mengeluarkan modal.",
+      "Evaluasi masukan dan kembangkan secara bertahap."
+    ],
+    "note": "Mulai dengan percobaan yang terjangkau, didampingi guru atau orang tua bila diperlukan."
+  },
+  {
+    "id": "belajar",
+    "title": "Terus berkembang",
+    "steps": [
+      "Pilih satu keterampilan yang mendukung tujuanmu.",
+      "Tentukan proyek kecil dan waktu belajar yang realistis.",
+      "Cari sumber tepercaya, pelatihan, atau komunitas yang relevan.",
+      "Simpan hasil kerja, minta masukan, dan tentukan tantangan berikutnya."
+    ],
+    "note": "Kursus, sertifikasi, dan pengalaman dapat melengkapi pendidikan serta pekerjaan."
+  }
+]

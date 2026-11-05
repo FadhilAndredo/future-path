@@ -1,0 +1,32 @@
+[
+  {
+    "id": "skill-1",
+    "name": "Berpikir kritis",
+    "challenge": "Pilih satu informasi yang kamu temui hari ini. Cari sumber aslinya, pisahkan fakta dan opini, lalu tulis dua pertanyaan yang belum terjawab."
+  },
+  {
+    "id": "skill-2",
+    "name": "Komunikasi",
+    "challenge": "Pilih topik yang kamu pahami. Jelaskan dalam 60 detik kepada teman, minta ia merangkum, lalu perbaiki bagian yang belum jelas."
+  },
+  {
+    "id": "skill-3",
+    "name": "Literasi digital",
+    "challenge": "Buat dokumen atau spreadsheet sederhana untuk mengatur tugas. Pelajari cara berbagi akses dan periksa pengaturan privasinya."
+  },
+  {
+    "id": "skill-4",
+    "name": "Kreativitas",
+    "challenge": "Temukan satu masalah kecil di sekolah. Buat sketsa tiga solusi yang berbeda, lalu pilih satu untuk diuji."
+  },
+  {
+    "id": "skill-5",
+    "name": "Kerja sama",
+    "challenge": "Kerjakan satu proyek kecil bersama teman. Sepakati pembagian tugas, waktu selesai, dan cara memberi masukan."
+  },
+  {
+    "id": "skill-6",
+    "name": "Pemecahan masalah",
+    "challenge": "Tulis satu masalah sehari-hari. Pecah menjadi bagian kecil, coba satu solusi, lalu catat apa yang berhasil dan perlu diubah."
+  }
+]

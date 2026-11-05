@@ -1,0 +1,148 @@
+[
+  {
+    "id": "field-1",
+    "name": "Sains & teknologi",
+    "track": "sma",
+    "subjects": "Matematika, fisika, kimia, dan informatika.",
+    "studies": "Informatika, Teknik, Matematika, dan Sains.",
+    "skills": "Logika, eksperimen, analisis, dan pemecahan masalah.",
+    "career": [
+      "web",
+      "network"
+    ]
+  },
+  {
+    "id": "field-2",
+    "name": "Sosial & humaniora",
+    "track": "sma",
+    "subjects": "Sosiologi, sejarah, geografi, dan bahasa.",
+    "studies": "Sosiologi, Ilmu Sejarah, Pendidikan, dan kajian masyarakat.",
+    "skills": "Riset, empati, berpikir kritis, dan komunikasi.",
+    "career": [
+      "teacher"
+    ]
+  },
+  {
+    "id": "field-3",
+    "name": "Ekonomi & bisnis",
+    "track": "sma",
+    "subjects": "Ekonomi, matematika, dan mata pelajaran pendukung lainnya.",
+    "studies": "Manajemen, Akuntansi, Ekonomi, dan Bisnis.",
+    "skills": "Analisis, ketelitian, komunikasi, dan perencanaan.",
+    "career": [
+      "business",
+      "account"
+    ]
+  },
+  {
+    "id": "field-4",
+    "name": "Bahasa & komunikasi",
+    "track": "sma",
+    "subjects": "Bahasa Indonesia, bahasa asing, dan kegiatan literasi.",
+    "studies": "Ilmu Komunikasi, Sastra, Bahasa, dan Pendidikan Bahasa.",
+    "skills": "Menulis, berbicara, mendengarkan, dan analisis pesan.",
+    "career": [
+      "teacher",
+      "ui"
+    ]
+  },
+  {
+    "id": "field-5",
+    "name": "Seni & kreativitas",
+    "track": "sma",
+    "subjects": "Seni, desain, bahasa, dan kegiatan kreatif.",
+    "studies": "Desain Komunikasi Visual, Seni, Desain Produk, dan bidang kreatif lainnya.",
+    "skills": "Pengamatan, eksplorasi ide, desain, dan presentasi.",
+    "career": [
+      "ui",
+      "chef"
+    ]
+  },
+  {
+    "id": "field-6",
+    "name": "Agama & keagamaan",
+    "track": "sma",
+    "subjects": "Pendidikan agama, bahasa, dan kajian sosial.",
+    "studies": "Studi Agama, Pendidikan Agama, dan bidang terkait.",
+    "skills": "Kajian teks, etika, komunikasi, dan kepedulian sosial.",
+    "career": [
+      "teacher"
+    ]
+  },
+  {
+    "id": "field-7",
+    "name": "Kesehatan & lingkungan",
+    "track": "sma",
+    "subjects": "Biologi, kimia, dan matematika.",
+    "studies": "Keperawatan, Kesehatan Masyarakat, Biologi, dan Teknik Lingkungan.",
+    "skills": "Ketelitian, analisis, empati, dan observasi.",
+    "career": [
+      "nurse"
+    ]
+  },
+  {
+    "id": "field-8",
+    "name": "PPLG",
+    "track": "smk",
+    "subjects": "Pemrograman, pengembangan perangkat lunak, dan pengujian.",
+    "studies": "Informatika, Sistem Informasi, atau pendidikan vokasi terkait.",
+    "skills": "Menulis kode, pengujian, dokumentasi, dan kerja tim.",
+    "career": [
+      "web"
+    ]
+  },
+  {
+    "id": "field-9",
+    "name": "TJKT",
+    "track": "smk",
+    "subjects": "Jaringan komputer, perangkat, dan konektivitas.",
+    "studies": "Teknik Komputer, Telekomunikasi, atau pendidikan vokasi terkait.",
+    "skills": "Konfigurasi jaringan, troubleshooting, dan dokumentasi.",
+    "career": [
+      "network"
+    ]
+  },
+  {
+    "id": "field-10",
+    "name": "Akuntansi",
+    "track": "smk",
+    "subjects": "Pencatatan transaksi dan penyusunan informasi keuangan.",
+    "studies": "Akuntansi, Keuangan, dan bidang terkait.",
+    "skills": "Ketelitian, spreadsheet, dasar akuntansi, dan etika.",
+    "career": [
+      "account",
+      "business"
+    ]
+  },
+  {
+    "id": "field-11",
+    "name": "DKV",
+    "track": "smk",
+    "subjects": "Komunikasi visual, dasar desain, dan produksi karya.",
+    "studies": "Desain Komunikasi Visual, Desain, dan bidang kreatif.",
+    "skills": "Komposisi, tipografi, ilustrasi, dan komunikasi.",
+    "career": [
+      "ui"
+    ]
+  },
+  {
+    "id": "field-12",
+    "name": "Perhotelan",
+    "track": "smk",
+    "subjects": "Pelayanan tamu, operasional hotel, dan komunikasi layanan.",
+    "studies": "Perhotelan, Pariwisata, atau Manajemen layanan.",
+    "skills": "Komunikasi, bahasa, pelayanan, dan kerja sama.",
+    "career": []
+  },
+  {
+    "id": "field-13",
+    "name": "Tata Boga",
+    "track": "smk",
+    "subjects": "Pengolahan makanan, kebersihan, dan penyajian.",
+    "studies": "Tata Boga, pendidikan kuliner, atau Bisnis Kuliner.",
+    "skills": "Teknik memasak, perhitungan biaya, dan kreativitas.",
+    "career": [
+      "chef"
+    ]
+  }
+]

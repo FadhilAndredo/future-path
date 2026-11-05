@@ -1,0 +1,62 @@
+{
+  "akademik": [
+    {
+      "name": "Universitas Indonesia",
+      "meta": "Depok & Jakarta · PTN",
+      "description": "Contoh eksplorasi: rumpun kesehatan, sosial, ekonomi, dan teknologi.",
+      "url": "https://www.ui.ac.id/"
+    },
+    {
+      "name": "Institut Teknologi Bandung",
+      "meta": "Bandung dan lokasi kampus lainnya · PTN",
+      "description": "Contoh eksplorasi: sains, teknik, seni, dan desain.",
+      "url": "https://itb.ac.id/"
+    },
+    {
+      "name": "Cari kampus & program studi",
+      "meta": "PTN maupun PTS",
+      "description": "Gunakan PDDikti untuk menelusuri identitas perguruan tinggi dan program studi.",
+      "url": "https://pddikti.kemdiktisaintek.go.id/"
+    }
+  ],
+  "vokasi": [
+    {
+      "name": "Politeknik Elektronika Negeri Surabaya",
+      "meta": "Surabaya · PTN",
+      "description": "Contoh eksplorasi pendidikan vokasi di bidang teknologi dan rekayasa.",
+      "url": "https://www.pens.ac.id/"
+    },
+    {
+      "name": "Pendidikan vokasi",
+      "meta": "Diploma & sarjana terapan",
+      "description": "Telusuri kurikulum, porsi praktik, proyek, fasilitas, dan kerja sama industri pada situs kampus.",
+      "url": "https://pddikti.kemdiktisaintek.go.id/"
+    },
+    {
+      "name": "Telusuri pilihanmu",
+      "meta": "Sesuaikan dengan tujuan belajar",
+      "description": "Bandingkan bidang, lokasi, biaya, akses, dan dukungan belajar sebelum menentukan pilihan.",
+      "url": "https://pddikti.kemdiktisaintek.go.id/"
+    }
+  ],
+  "mandiri": [
+    {
+      "name": "Belajar lewat proyek",
+      "meta": "Mulai dari aktivitas sederhana",
+      "description": "Buat website, karya desain, eksperimen, atau catatan usaha. Minta umpan balik dari guru atau teman.",
+      "url": ""
+    },
+    {
+      "name": "Kursus & pelatihan",
+      "meta": "Sesuaikan kebutuhan keterampilan",
+      "description": "Periksa silabus, pengajar, durasi, biaya, dan contoh hasil belajar sebelum mendaftar.",
+      "url": ""
+    },
+    {
+      "name": "Kenali sertifikasi",
+      "meta": "Bukti kompetensi untuk kebutuhan tertentu",
+      "description": "Pelajari tujuan sertifikasi dan lembaga penyelenggara. Sertifikat kursus berbeda dengan sertifikasi kompetensi.",
+      "url": "https://bnsp.go.id/"
+    }
+  ]
+}

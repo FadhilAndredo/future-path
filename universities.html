@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="FUTUREPATH: eksplorasi minat, pendidikan, dan karier untuk siswa SMA/MA dan SMK/MAK.">
+    <title>
+      Pendidikan | FUTUREPATH
+    </title>
+    <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <script defer src="js/main.js">
+    </script>
+    <script defer src="js/navigation.js">
+    </script>
+    <script defer src="js/universities.js">
+    </script>
+  </head>
+  <body data-page="universities">
+    <a class="skip-link" href="#main-content">
+      Langsung ke konten
+    </a>
+    <header id="siteHeader">
+    </header>
+    <main id="main-content">
+      <section class="page-intro">
+        <div class="eyebrow">
+          UNIVERSITY EXPLORER
+        </div>
+        <h1>
+          Temukan tempat
+          <span>
+            bertumbuh.
+          </span>
+        </h1>
+        <p>
+          Mulai dari bidang yang ingin dipelajari, lalu bandingkan pilihan pendidikan dengan sumber resmi.
+        </p>
+      </section>
+      <section class="section" id="pendidikan">
+        <div class="education-tabs" id="eduTabs">
+          <button class="selected" data-edu="akademik">
+            Universitas
+            &
+            Institut
+          </button>
+          <button data-edu="vokasi">
+            Politeknik
+            &
+            Vokasi
+          </button>
+          <button data-edu="mandiri">
+            Belajar
+            &
+            Pelatihan
+          </button>
+        </div>
+        <div id="educationContent">
+        </div>
+        <small class="source-note">
+          Contoh eksplorasi awal. Informasi prodi, penerimaan, biaya, dan beasiswa perlu dicek langsung pada situs resmi penyelenggara.
+        </small>
+      </section>
+      <section class="guide-banner">
+        <div>
+          <div class="eyebrow">
+            PANDUAN UNTUK MENEMANI LANGKAHMU
+          </div>
+          <h2>
+            Baca pelan-pelan. Rencanakan bertahap.
+          </h2>
+          <p>
+            Panduan penggunaan, eksplorasi, dan lembar rencana dalam satu PDF.
+          </p>
+        </div>
+        <a class="primary" href="assets/documents/panduan-futurepath.pdf" download>
+          Unduh panduan lengkap PDF ↓
+        </a>
+      </section>
+    </main>
+    <footer id="siteFooter">
+    </footer>
+    <dialog id="modal" aria-label="Informasi eksplorasi">
+      <button id="closeModal" class="close" aria-label="Tutup">
+        ×
+      </button>
+      <div id="modalContent">
+      </div>
+    </dialog>
+    <div id="toast" role="status">
+    </div>
+    <noscript>
+      <p class="empty">
+        Aktifkan JavaScript untuk kuis, pencarian, dan kartu interaktif. Panduan PDF tetap dapat diunduh.
+      </p>
+    </noscript>
+  </body>
+</html>

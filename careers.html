@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="FUTUREPATH: eksplorasi minat, pendidikan, dan karier untuk siswa SMA/MA dan SMK/MAK.">
+    <title>
+      Profesi | FUTUREPATH
+    </title>
+    <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <script defer src="js/main.js">
+    </script>
+    <script defer src="js/navigation.js">
+    </script>
+    <script defer src="js/careers.js">
+    </script>
+  </head>
+  <body data-page="careers">
+    <a class="skip-link" href="#main-content">
+      Langsung ke konten
+    </a>
+    <header id="siteHeader">
+    </header>
+    <main id="main-content">
+      <section class="page-intro">
+        <div class="eyebrow">
+          CAREER EXPLORER
+        </div>
+        <h1>
+          “Nanti, aku mau jadi
+          <span>
+            apa?
+          </span>
+          ”
+        </h1>
+        <p>
+          Kenali aktivitas sehari-hari, bekal keterampilan, dan pendidikan yang dapat kamu telusuri.
+        </p>
+      </section>
+      <section id="profesi" class="section career-section">
+        <div class="toolbar">
+          <div class="filters" id="filters">
+            <button class="selected" data-filter="Semua">
+              Semua bidang
+            </button>
+            <button data-filter="Teknologi">
+              Teknologi
+            </button>
+            <button data-filter="Kreatif">
+              Kreatif
+            </button>
+            <button data-filter="Bisnis">
+              Bisnis
+            </button>
+            <button data-filter="Kesehatan">
+              Kesehatan
+            </button>
+            <button data-filter="Sosial">
+              Sosial
+            </button>
+          </div>
+          <label class="search">
+            <span>
+              ⌕
+            </span>
+            <input id="careerSearch" placeholder="Cari profesi…" aria-label="Cari profesi">
+          </label>
+        </div>
+        <div id="careerGrid" class="career-grid">
+        </div>
+        <div class="compare-bar" id="compareBar" hidden>
+          <span id="compareCount">
+          </span>
+          <button class="primary" id="compareOpen">
+            Bandingkan pilihan →
+          </button>
+          <button id="compareReset" class="plain">
+            Hapus
+          </button>
+        </div>
+      </section>
+      <section class="guide-banner">
+        <div>
+          <div class="eyebrow">
+            PANDUAN UNTUK MENEMANI LANGKAHMU
+          </div>
+          <h2>
+            Baca pelan-pelan. Rencanakan bertahap.
+          </h2>
+          <p>
+            Panduan penggunaan, eksplorasi, dan lembar rencana dalam satu PDF.
+          </p>
+        </div>
+        <a class="primary" href="assets/documents/panduan-futurepath.pdf" download>
+          Unduh panduan lengkap PDF ↓
+        </a>
+      </section>
+    </main>
+    <footer id="siteFooter">
+    </footer>
+    <dialog id="modal" aria-label="Informasi eksplorasi">
+      <button id="closeModal" class="close" aria-label="Tutup">
+        ×
+      </button>
+      <div id="modalContent">
+      </div>
+    </dialog>
+    <div id="toast" role="status">
+    </div>
+    <noscript>
+      <p class="empty">
+        Aktifkan JavaScript untuk kuis, pencarian, dan kartu interaktif. Panduan PDF tetap dapat diunduh.
+      </p>
+    </noscript>
+  </body>
+</html>

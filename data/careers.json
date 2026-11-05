@@ -1,0 +1,162 @@
+[
+  {
+    "id": "web",
+    "name": "Web Developer",
+    "cat": "Teknologi",
+    "icon": "</>",
+    "tint": "#e7edfc",
+    "ink": "#6385cc",
+    "desc": "Membangun website yang membantu aktivitas sehari-hari.",
+    "tasks": "Membuat antarmuka, menulis kode, menguji fitur, dan memperbaiki masalah website.",
+    "skills": [
+      "HTML & CSS",
+      "JavaScript",
+      "Pemecahan masalah",
+      "Kerja sama"
+    ],
+    "study": "Informatika, Sistem Informasi, atau pembelajaran pemrograman terstruktur.",
+    "industry": "Teknologi, pendidikan, perdagangan, dan berbagai organisasi.",
+    "step": "Buat satu halaman profil, lalu tambahkan fitur interaktif.",
+    "growth": "Proyek pribadi → pengembang pemula → pengembang berpengalaman → spesialis atau pemimpin tim."
+  },
+  {
+    "id": "ui",
+    "name": "UI/UX Designer",
+    "cat": "Kreatif",
+    "icon": "✎",
+    "tint": "#f1eafb",
+    "ink": "#a18ac2",
+    "desc": "Merancang pengalaman digital yang mudah dan nyaman.",
+    "tasks": "Memahami kebutuhan pengguna, membuat alur, merancang tampilan, dan menguji prototipe.",
+    "skills": [
+      "Riset pengguna",
+      "Desain visual",
+      "Prototyping",
+      "Komunikasi"
+    ],
+    "study": "Desain Komunikasi Visual, Desain Produk, Informatika, atau belajar desain pengalaman pengguna.",
+    "industry": "Produk digital, agensi desain, layanan keuangan, dan pendidikan.",
+    "step": "Amati satu aplikasi sekolah. Gambar ulang layar yang menurutmu bisa lebih mudah digunakan.",
+    "growth": "Portofolio proyek → desainer pemula → desainer produk → spesialis atau pemimpin desain."
+  },
+  {
+    "id": "business",
+    "name": "Analis Bisnis",
+    "cat": "Bisnis",
+    "icon": "↗",
+    "tint": "#fbefd6",
+    "ink": "#c79b47",
+    "desc": "Menghubungkan kebutuhan bisnis dengan solusi yang tepat.",
+    "tasks": "Mengumpulkan kebutuhan, memetakan proses, menganalisis data, dan menyampaikan usulan perbaikan.",
+    "skills": [
+      "Analisis data",
+      "Komunikasi",
+      "Spreadsheet",
+      "Berpikir kritis"
+    ],
+    "study": "Manajemen, Sistem Informasi, Ekonomi, atau bidang terkait.",
+    "industry": "Konsultasi, teknologi, perbankan, dan perdagangan.",
+    "step": "Catat alur pemesanan di kantin. Temukan satu cara agar prosesnya lebih efisien.",
+    "growth": "Proyek analisis → analis pemula → analis berpengalaman → konsultan atau pengelola produk."
+  },
+  {
+    "id": "nurse",
+    "name": "Perawat",
+    "cat": "Kesehatan",
+    "icon": "+",
+    "tint": "#e4f1eb",
+    "ink": "#6c9e8c",
+    "desc": "Mendampingi dan merawat pasien dengan ilmu serta empati.",
+    "tasks": "Melakukan asuhan keperawatan, memantau kondisi pasien, mengedukasi, dan bekerja bersama tenaga kesehatan.",
+    "skills": [
+      "Empati",
+      "Ketelitian",
+      "Komunikasi",
+      "Ilmu keperawatan"
+    ],
+    "study": "Pendidikan keperawatan dan pemenuhan persyaratan profesi sesuai ketentuan yang berlaku.",
+    "industry": "Rumah sakit, klinik, puskesmas, dan layanan kesehatan lainnya.",
+    "step": "Pelajari dasar kesehatan melalui sumber tepercaya dan kenali jalur pendidikan keperawatan.",
+    "growth": "Pendidikan dan kualifikasi → praktik keperawatan → pengembangan kompetensi atau spesialisasi."
+  },
+  {
+    "id": "teacher",
+    "name": "Guru",
+    "cat": "Sosial",
+    "icon": "Aa",
+    "tint": "#e9eef9",
+    "ink": "#7c92b9",
+    "desc": "Membantu siswa memahami hal baru dan mengembangkan diri.",
+    "tasks": "Merencanakan pembelajaran, mendampingi siswa, menilai perkembangan, dan bekerja sama dengan orang tua.",
+    "skills": [
+      "Komunikasi",
+      "Empati",
+      "Perencanaan",
+      "Penguasaan materi"
+    ],
+    "study": "Pendidikan sesuai bidang ajar serta kualifikasi profesi yang diperlukan.",
+    "industry": "Sekolah, lembaga pendidikan, dan pengembangan pembelajaran.",
+    "step": "Coba jelaskan satu materi kepada teman dengan contoh yang sederhana.",
+    "growth": "Pendidikan → pengalaman mengajar → pengembangan profesi → peran kepemimpinan pendidikan."
+  },
+  {
+    "id": "chef",
+    "name": "Chef",
+    "cat": "Kreatif",
+    "icon": "♨",
+    "tint": "#f8e9df",
+    "ink": "#bd8d70",
+    "desc": "Mengolah bahan menjadi pengalaman kuliner yang berkesan.",
+    "tasks": "Menyiapkan bahan, mengembangkan menu, memasak, menjaga kebersihan, dan mengelola kualitas hidangan.",
+    "skills": [
+      "Teknik memasak",
+      "Kebersihan pangan",
+      "Kreativitas",
+      "Manajemen waktu"
+    ],
+    "study": "Tata Boga, pendidikan kuliner, atau pelatihan dan pengalaman dapur profesional.",
+    "industry": "Restoran, hotel, katering, dan usaha kuliner.",
+    "step": "Buat satu resep sederhana. Catat bahan, biaya, proses, dan masukan orang yang mencobanya.",
+    "growth": "Latihan dan portofolio → tim dapur → tanggung jawab stasiun → kepala dapur atau usaha sendiri."
+  },
+  {
+    "id": "network",
+    "name": "Network Engineer",
+    "cat": "Teknologi",
+    "icon": "⌘",
+    "tint": "#e2eff4",
+    "ink": "#6296aa",
+    "desc": "Menjaga perangkat dan jaringan tetap terhubung.",
+    "tasks": "Merancang jaringan, mengonfigurasi perangkat, memantau koneksi, dan menangani gangguan.",
+    "skills": [
+      "Dasar jaringan",
+      "Konfigurasi perangkat",
+      "Keamanan jaringan",
+      "Analisis masalah"
+    ],
+    "study": "TJKT, Teknik Komputer, Informatika, atau pelatihan jaringan.",
+    "industry": "Telekomunikasi, perusahaan, sekolah, dan penyedia layanan teknologi.",
+    "step": "Gambar peta jaringan rumah atau sekolah tanpa mencatat kata sandi.",
+    "growth": "Praktik jaringan → dukungan teknis → pengelolaan jaringan → arsitektur jaringan atau keamanan."
+  },
+  {
+    "id": "account",
+    "name": "Akuntan",
+    "cat": "Bisnis",
+    "icon": "Σ",
+    "tint": "#f2eddf",
+    "ink": "#a6986c",
+    "desc": "Mengolah informasi keuangan untuk mendukung keputusan.",
+    "tasks": "Mencatat transaksi, menyusun laporan, menelaah data keuangan, dan memastikan ketelitian pencatatan.",
+    "skills": [
+      "Akuntansi",
+      "Ketelitian",
+      "Spreadsheet",
+      "Etika profesi"
+    ],
+    "study": "Akuntansi dan pendidikan atau kualifikasi tambahan sesuai peran yang dituju.",
+    "industry": "Perusahaan, kantor jasa profesional, organisasi, dan sektor publik.",
+    "step": "Buat catatan pemasukan dan pengeluaran kegiatan kelas dengan contoh data fiktif.",
+    "growth": "Dasar akuntansi → peran awal keuangan → akuntan berpengalaman → spesialis atau pengelola keuangan."
+  }
+]
